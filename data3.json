@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Procter & Gamble Women's Global Leadership Program",
+      "description": "Provides scholarships to women pursuing graduate degrees in STEM fields.",
+      "eligibility": "Women pursuing graduate degrees in STEM fields at accredited universities worldwide.",
+      "link": "https://www.pg.com/en_US/sustainability/women/womens-global-leadership-program/",
+      "type": "Scholarship" 
+    },
+    {
+      "name": "L'Oréal-UNESCO For Women in Science International Rising Talents Program",
+      "description": "Supports outstanding women scientists at the postdoctoral level.",
+      "eligibility": "Women scientists in life sciences (including medicine), physical sciences, engineering and mathematics.",
+      "link": "https://www.forwomeninscience.com/programs/international-rising-talents/",
+      "type": "Scholarship" 
+    },
+    {
+      "name": "Google Women Techmakers Scholars Program",
+      "description": "Provides scholarships to undergraduate and graduate women in computer science.",
+      "eligibility": "Women studying computer science at universities around the world.",
+      "link": "https://womenintechmakers.com/scholarships/",
+      "type": "Scholarship" 
+    },
+    {
+      "name": "Anita Borg Scholarship",
+      "description": "Supports women in computer science and technology fields.",
+      "eligibility": "Women pursuing degrees in computer science and related fields.",
+      "link": "https://anitab.org/programs/scholarships/",
+      "type": "Scholarship" 
+    },
+    {
+      "name": "Adobe Women-in-Tech Scholarship",
+      "description": "Provides scholarships to women pursuing degrees in computer science and related fields.",
+      "eligibility": "Women pursuing degrees in computer science, engineering, or related fields.",
+      "link": "https://www.adobe.com/diversity/women-in-tech-scholarship.html",
+      "type": "Scholarship" 
+    },
+    {
+      "name": "SheCodes",
+      "description": "Offers free and paid coding courses for women.",
+      "eligibility": "Women interested in learning to code.",
+      "link": "https://shecodes.io/",
+      "type": "Internship" 
+    },
+    {
+      "name": "Google Women Techmakers Scholars Program",
+      "description": "Provides scholarships to undergraduate and graduate women in computer science.",
+      "eligibility": "Women studying computer science at universities around the world.",
+      "link": "https://womenintechmakers.com/scholarships/",
+      "type": "Internship" 
+    },
+    {
+      "name": "Microsoft Learn",
+      "description": "Offers free online courses and learning paths for various technologies.",
+      "eligibility": "Anyone interested in learning about Microsoft technologies.",
+      "link": "https://learn.microsoft.com/",
+      "type": "Internship" 
+    }
+  ]

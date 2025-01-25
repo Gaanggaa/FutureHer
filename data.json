@@ -1,0 +1,30 @@
+[
+    {
+        "name": "National Merit Scholarship",
+        "description": "This scholarship is awarded to students with outstanding academic performance in their pre-university education. It aims to encourage talented individuals to pursue higher studies.",
+        "eligibility": "Minimum 90% in 12th grade or equivalent exams.",
+        "deadline": "March 15, 2025",
+        "link": "https://example.com/national-merit"
+    },
+    {
+        "name": "Women in STEM Scholarship",
+        "description": "This scholarship supports women aiming to pursue undergraduate degrees in Science, Technology, Engineering, and Mathematics (STEM) fields, promoting diversity in education.",
+        "eligibility": "Female students enrolling in STEM-related programs.",
+        "deadline": "April 10, 2025",
+        "link": "https://example.com/women-in-stem"
+    },
+    {
+        "name": "Financial Aid for Underprivileged Students",
+        "description": "This program offers financial assistance to economically disadvantaged students, enabling them to pursue undergraduate education without financial stress.",
+        "eligibility": "Annual family income below $10,000 and proof of financial need.",
+        "deadline": "May 30, 2025",
+        "link": "https://example.com/financial-aid"
+    },
+    {
+        "name": "International Students Excellence Scholarship",
+        "description": "Designed for international students with exceptional academic records, this scholarship helps them pursue undergraduate studies at top institutions worldwide.",
+        "eligibility": "Minimum 85% in high school and a valid admission offer from a recognized university.",
+        "deadline": "February 28, 2025",
+        "link": "https://example.com/international-students"
+    }
+]
