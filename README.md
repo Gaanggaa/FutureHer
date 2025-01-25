@@ -16,15 +16,9 @@ Women’s Scholarship Finder is a dedicated website designed to help women disco
 -CSS
 -Javascript
 
-## Screenshot
-["C:\Users\hp\OneDrive\Desktop\Techie Unniyarcha\screenshot1.png"]
-["C:\Users\hp\OneDrive\Desktop\Techie Unniyarcha\screenshot2.png"]
-["C:\Users\hp\OneDrive\Desktop\Techie Unniyarcha\screenshot3.png"]
-["C:\Users\hp\OneDrive\Desktop\Techie Unniyarcha\ss4.png"]
-["C:\Users\hp\OneDrive\Desktop\Techie Unniyarcha\ss5.png"]
-["C:\Users\hp\OneDrive\Desktop\Techie Unniyarcha\ss6.png"]
-## Project Demo
-Access the live demo: ["C:\Users\hp\OneDrive\Desktop\Techie Unniyarcha\demo video.mp4"]
+## Screenshot and video
+https://drive.google.com/drive/folders/1coinL1PuNeSAr6_s9FcWsiuONt03sWQh?usp=sharing
+
 
 ## Team Contribution
 - **Ganga Gireesh**: User Interface and Experience Design
